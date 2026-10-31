@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated coverage for manual test case 20881315: verify each top-level Deluxe navigation menu opens its panel.</description>
+   <name>Clicking each top-level menu opens its panel</name>
+   <tag>GenAI,Global Navigation,DMWD-7</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Kevin Jackey</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Kevin Jackey</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>979c0f44-10a8-4240-8778-ad389c98fe4c</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>979c0f44-10a8-4240-8778-ad389c98fe4c</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>Generated from manual test case 20881315 in the Deluxe Public Site project.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c95c6222-e254-422a-bb26-d72a106f9f2a</testCaseGuid>
+</TestCaseEntity>
